@@ -20,7 +20,9 @@ vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@104.234.233.57:35911?encryption=non
 trojan://Aimer@115.23.163.214:12523?security=tls&sni=agept.ambercc.filegear-sg.me&alpn=http%2F1.1&fp=randomized&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#ICN
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@221.153.216.221:50000?encryption=none&security=tls&sni=agedy.ambercc.filegear-sg.me&alpn=http%2F1.1&fp=random&type=ws&host=agedy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#KR
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@211.218.223.130:30012?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#KR
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@211.218.242.102:39358?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&alpn=h3&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#KR
 trojan://Aimer@121.153.45.186:18004?security=tls&sni=agept.ambercc.filegear-sg.me&alpn=http%2F1.1&fp=randomized&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#ICN
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@156.230.12.71:443?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&alpn=h3&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#CN
 trojan://Aimer@175.198.236.155:15831?security=tls&sni=agept.ambercc.filegear-sg.me&alpn=http%2F1.1&fp=randomized&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#ICN
 trojan://Aimer@14.47.103.113:12167?security=tls&sni=agept.ambercc.filegear-sg.me&alpn=http%2F1.1&fp=randomized&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#ICN
 trojan://Aimer@20.184.3.9:2222?security=tls&sni=agepy.ambercc.filegear-sg.me&alpn=http%2F1.1&fp=randomized&type=ws&host=agepy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#SIN
@@ -77,10 +79,8 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.180.162:443?encryption=none&s
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.151.204.91:443?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&alpn=h3&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#SE
 trojan://Aimer@38.207.186.44:25718?security=tls&sni=agepu.ambercc.filegear-sg.me&alpn=http%2F1.1&fp=randomized&type=ws&host=agepu.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#LAX
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@144.24.73.232:443?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&alpn=h3&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#KR
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.151.225.228:8443?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&alpn=h3&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#FR
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@138.2.36.157:8443?encryption=none&security=tls&sni=agedy.ambercc.filegear-sg.me&alpn=http%2F1.1&fp=random&type=ws&host=agedy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#JP
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.151.204.91:443?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&alpn=h3&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#SE
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.0:443?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#FR
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@158.180.230.4:8443?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&alpn=h3&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#IT
 trojan://Aimer@152.70.245.66:12693?security=tls&sni=agept.ambercc.filegear-sg.me&alpn=http%2F1.1&fp=randomized&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#ICN
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.180.162:443?encryption=none&security=tls&sni=nc.dbbn2024.us.kg&fp=random&type=ws&host=nc.dbbn2024.us.kg&path=%2F%3Fed%3D2560#AU
